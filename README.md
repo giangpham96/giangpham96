@@ -21,8 +21,7 @@
 ✔ Refer me as *he/him* or *that dude* 😎 <br>
 ✔ I’m currently one of the main contributors of [Wolt consumer app](https://play.google.com/store/apps/details?id=com.wolt.android) <img align="center" src="https://38wbse3riso447pt6m3uirjg-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/Rocket_Yuho.png" height="20" /> <br>
 ✔ I’m currently learning **machine learning**🥰<br>
-✔ Ask from me anything you want, but don't spam my inbox 😉<br>
-✔ Random fact : *I communicate in the most awkward way that you can imagine, and I like things related to Batman* 😎 <br>
+✔ Ask me anything you want, but don't spam my inbox 😉<br>
 <br>
 
 
