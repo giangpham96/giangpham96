@@ -39,3 +39,4 @@
 ✔ Ask from me anything you want, but don't spam my inbox 😉<br>
 ✔ Random fact : *I communicate in the most awkward way that you can imagine, and I like things related to Batman* 😎 <br><br><br><br>
 <br>
+![Metrics](https://metrics.lecoq.io/giangpham96?template=classic&base.header=0&base.metadata=0&lines=1&config.timezone=Europe%2FHelsinki)
