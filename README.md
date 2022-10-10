@@ -24,9 +24,6 @@
 ✔ Ask me anything you want, but don't spam my inbox 😉<br>
 <br>
 
-
-![Metrics](https://metrics.lecoq.io/giangpham96?template=classic&base.header=0&base.metadata=0&lines=1&config.timezone=Europe%2FHelsinki)
-
 <br>
 <h3> 🛠 &nbsp;Tech Stack & Toolings</h3>
 
