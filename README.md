@@ -10,8 +10,8 @@
 </ p>
 <p align="center">
   <em>
-    You're looking at the profile of an Android developer📱 at <a href="https://wolt.com/en/discovery">Wolt</a> <img align="center" src="https://38wbse3riso447pt6m3uirjg-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/Rocket_Yuho.png" height="20" /><br>
-    and soon to be a graduate student at <a href="https://www.aalto.fi/en">Aalto University</a><img align="center" src="https://www.aaltohelsinki.com/2020/logos/Aalto_SCI_EN_black.png" alt="Aalto University" height="30" width="30" /> 🎓
+    You're looking at the profile of an Android developer📱 at <a href="https://wolt.com/en/discovery">Wolt</a> <img align="center" src="https://images.ctfassets.net/et5i6t44yqqw/d8SPoNmYsZjjuwqwAWF7T/47515a84c967e82d3e3795f6e974acc4/Yuho_with_Rocket.png" height="30" /><br>
+    and a graduate student at <a href="https://www.aalto.fi/en">Aalto University</a><img align="center" src="https://www.aaltohelsinki.com/2020/logos/Aalto_SCI_EN_black.png" alt="Aalto University" height="30" width="30" /> 🎓
   </em> 
 </p>
 <br>
@@ -19,7 +19,7 @@
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" align="center">&nbsp;About me ...</h3>
 
 ✔ Refer me as *he/him* or *that dude* 😎 <br>
-✔ I’m currently one of the main contributors of [Wolt consumer app](https://play.google.com/store/apps/details?id=com.wolt.android) <img align="center" src="https://38wbse3riso447pt6m3uirjg-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/Rocket_Yuho.png" height="20" /> <br>
+✔ I’m currently one of the main contributors of [Wolt consumer app](https://play.google.com/store/apps/details?id=com.wolt.android) <img align="center" src="https://images.ctfassets.net/et5i6t44yqqw/d8SPoNmYsZjjuwqwAWF7T/47515a84c967e82d3e3795f6e974acc4/Yuho_with_Rocket.png" height="30" /> <br>
 ✔ Ask me anything you want, but don't spam my inbox 😉<br>
 <br>
 
