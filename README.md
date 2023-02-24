@@ -10,7 +10,7 @@
 </ p>
 <p align="center">
   <em>
-    You're looking at the profile of an UI-and-animation-centric Android developer📱 at <a href="https://wolt.com/en/discovery">Wolt</a> <img align="center" src="https://38wbse3riso447pt6m3uirjg-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/Rocket_Yuho.png" height="20" /><br>
+    You're looking at the profile of an Android developer📱 at <a href="https://wolt.com/en/discovery">Wolt</a> <img align="center" src="https://38wbse3riso447pt6m3uirjg-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/Rocket_Yuho.png" height="20" /><br>
     and soon to be a graduate student at <a href="https://www.aalto.fi/en">Aalto University</a><img align="center" src="https://www.aaltohelsinki.com/2020/logos/Aalto_SCI_EN_black.png" alt="Aalto University" height="30" width="30" /> 🎓
   </em> 
 </p>
@@ -20,7 +20,6 @@
 
 ✔ Refer me as *he/him* or *that dude* 😎 <br>
 ✔ I’m currently one of the main contributors of [Wolt consumer app](https://play.google.com/store/apps/details?id=com.wolt.android) <img align="center" src="https://38wbse3riso447pt6m3uirjg-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/Rocket_Yuho.png" height="20" /> <br>
-✔ I’m currently learning **machine learning**🥰<br>
 ✔ Ask me anything you want, but don't spam my inbox 😉<br>
 <br>
 
