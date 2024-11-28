@@ -11,8 +11,8 @@
 </ p>
 <p align="center">
   <em>
-    You're looking at the profile of an Android developer at&nbsp;<img align="center" src="https://1000logos.net/wp-content/uploads/2022/09/Wolt-Symbol.png" height="25" />&nbsp;📱<br>
-    and a graduate student at&nbsp;<img align="center" src="https://seeklogo.com/images/A/aalto-yliopisto-logo-CC798AB981-seeklogo.com.png" height="15" />&nbsp;🎓
+    You're looking at the profile of an Android developer at Wolt / Doordash 📱<br>
+    and a graduate student at Aalto University 🎓
   </em> 
 </p>
 <br>
