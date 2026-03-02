@@ -20,7 +20,6 @@
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" align="center">&nbsp;About me ...</h3>
 
 ✔ Refer me as *he/him* or *that dude* 😎 <br>
-✔ I’m currently one of the contributors of Wolt Consumer app <img align="center" src="https://images.ctfassets.net/et5i6t44yqqw/d8SPoNmYsZjjuwqwAWF7T/47515a84c967e82d3e3795f6e974acc4/Yuho_with_Rocket.png" height="30" /><br>
 ✔ I help startups by consulting on how to build robust & scalable Android applications & mobile applications from different aspects. Contact me via email 📫
 <br>
 
