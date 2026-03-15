@@ -1,40 +1,21 @@
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=giangpham96&color=brightgreen" alt="watching_count" />
-</p>
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I am Giang Pham 🇻🇳
-</h1>
+Hey there, I’m Giang 👋 Android-first builder, animation nerd, and someone who designs apps that play nice with AI agents.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/giangp29/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:giangp2901@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</ p>
-<p align="center">
-  <em>
-    You're looking at the profile of an Android developer at Wolt / Doordash 📱<br>
-    and a graduate student at Aalto University 🎓
-  </em> 
-</p>
-<br>
+## 📌 Who I am
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" align="center">&nbsp;About me ...</h3>
+- Expert in Android, complex UI & animation, scalable app development that feels comfortable for AI agents to tap into.
+- Built across eCommerce, logistics at Zalando, and food delivery + merchant tooling stints at Wolt and DoorDash, so I know what shipping, hustle, and happy merchants look like.
+- Product-minded, collaborative engineer who loves pairing with design/ops teammates to bring bold experiences to life.
 
-✔ Refer me as *he/him* or *that dude* 😎 <br>
-✔ I help startups by consulting on how to build robust & scalable Android applications & mobile applications from different aspects. Contact me via email 📫
-<br>
+## 🚀 Modern Android playbook
 
-<br>
-<h3> 🛠&nbsp;Tech Stack & Toolings</h3>
+- Jetpack Compose for fluid, high-impact UI
+- Modular architecture & Kotlin Multiplatform explorations for scalable teams and AI agents
+- Hilt + Flow + Coroutines powering resilient data flows
+- Snapshot testing & instrumentation smoke tests so changes stay trustworthy
 
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?logo=kotlin&style=for-the-badge&logoColor=000000)
-![Android](https://img.shields.io/badge/android-3DDC84?logo=android&style=for-the-badge&logoColor=ffffff)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&style=for-the-badge&logoColor=ffffff)
-![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?logo=androidstudio&style=for-the-badge&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge&logoColor=000000)
-![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C?logo=reactiveX&style=for-the-badge&logoColor=ffffff)
-<br>
-![Github Actions](https://img.shields.io/badge/github%20actions-2088FF?logo=githubactions&style=for-the-badge&logoColor=ffffff)
-![Github](https://img.shields.io/badge/github-181717?logo=github&style=for-the-badge&logoColor=ffffff)
-![Git](https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=ffffff)
-![IntelliJ IDEA](https://img.shields.io/badge/intellij-000000?logo=intellijidea&style=for-the-badge&logoColor=ffffff)
-![Swagger](https://img.shields.io/badge/swagger-85EA2D?logo=swagger&style=for-the-badge&logoColor=000000)
+## 📈 GitHub contributions
+
+![Giang's GitHub contribution heatmap](https://ghchart.rshah.org/giangpham96)
+
+## 📬 Want to collaborate?
+Drop a line on GitHub, ping me via [LinkedIn](https://www.linkedin.com/in/giangp29/), or send a quick note if you spot something interesting: always down for new challenges and thoughtful product problems.
